@@ -1,5 +1,5 @@
 # JRedditDataFinder
 
 GUEYE Leopold
-<\n>
+<br>
 JReddit Aggregator
