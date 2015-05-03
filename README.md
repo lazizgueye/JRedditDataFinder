@@ -1,4 +1,5 @@
 # JRedditDataFinder
 
 GUEYE Leopold
-UFR IM2AG
+<\n>
+JReddit Aggregator
